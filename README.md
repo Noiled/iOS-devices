@@ -21,7 +21,7 @@ Apple devices model list.
 "iPhone6,2"                         iPhone 5S
 "iPhone7,1"                         iPhone 6 Plus
 "iPhone7,2"                         iPhone 6
-"iPhone8,1"                         iPhone 6S
+"iPhone8,1"                         iPhone 6S              			265
 "iPhone8,2"                         iPhone 6S Plus
 "iPhone8,4"                         iPhone SE
 "iPhone9,1",                        iPhone 7
@@ -74,7 +74,7 @@ Apple devices model list.
 "iPad5,3"                            iPad Air 2
 "iPad5,4"                            iPad Air 2
 
-"iPad6,3"                            iPad Pro (9.7 inch)
+"iPad6,3"                            iPad Pro (9.7 inch)                        265
 "iPad6,4"                            iPad Pro (9.7 inch)
 "iPad6,7"                            iPad Pro (12.9 inch)
 "iPad6,8"                            iPad Pro (12.9 inch)
